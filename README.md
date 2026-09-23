@@ -149,19 +149,9 @@ Terminal  → Linux / CLI workflow
 
 > cat connect.sh
 
-<p>
-  <a href="https://github.com/Aman-Mondal" style="color: white; text-decoration: none;">
-    [GitHub]"
-  </a>
-  &nbsp; &nbsp; &nbsp; 
-  <a href="https://www.linkedin.com/in/aman-mondal-b168b1382/" style="color: white; text-decoration: none;">
-    [LinkedIn]
-  </a>
-&nbsp; &nbsp; &nbsp;
-  <a href="#" style="color: white; text-decoration: none;">
-    [Portfolio]
-  </a>
-</p>
+<pre>
+<a href="https://github.com/Aman-Mondal">[GitHub]</a>    <a href="https://www.linkedin.com/in/aman-mondal-b168b1382/">[LinkedIn]</a>    <a href="#">[Portfolio]</a>
+</pre>
 
 <div align="center">
 <pre>
