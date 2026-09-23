@@ -146,7 +146,6 @@ Terminal  → Linux / CLI workflow
 🐧  Linux / Ricing
 </pre>
 
-> ./connect.sh
 
 ### > ./connect.sh
 
