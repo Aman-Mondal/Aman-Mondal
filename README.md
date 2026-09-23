@@ -150,21 +150,21 @@ Terminal  → Linux / CLI workflow
 > cat connect.sh
 
 <p>
-  <a href="https://github.com/Aman-Mondal">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/Aman-Mondal" style="color: white; text-decoration: none;">
+    [GitHub]"
   </a>
-
-  <a href="https://www.linkedin.com/in/aman-mondal-b168b1382/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  &nbsp; &nbsp; &nbsp; 
+  <a href="https://www.linkedin.com/in/aman-mondal-b168b1382/" style="color: white; text-decoration: none;">
+    [LinkedIn]
   </a>
-
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+&nbsp; &nbsp; &nbsp;
+  <a href="#" style="color: white; text-decoration: none;">
+    [Portfolio]
   </a>
 </p>
 
 <div align="center">
 <pre>
-"Build things. Break things. Understand why they broke. Repeat."
+"One bug closer to understanding."
 </pre>
 </div>
