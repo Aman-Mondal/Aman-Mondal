@@ -149,7 +149,7 @@ Terminal  → Linux / CLI workflow
 
 > cat connect.sh
 
-<pre>
+<pre style="color: #fff">
 <a href="https://github.com/Aman-Mondal">[GitHub]</a>    <a href="https://www.linkedin.com/in/aman-mondal-b168b1382/">[LinkedIn]</a>    <a href="#">[Portfolio]</a>
 </pre>
 
